@@ -16,7 +16,7 @@ from linebot import (
 
 app = Flask(__name__)
 
-lineaccesstoken = 'sVi63a9na79V/b+yduVI4yExkvFLcsZGHpCNgiDRnJVNdlWG22i5ICYiEfSmyX3o0ES4ZZ268XYaGETDPlSEu6htUND4nMeICcbHDvUoj3JHlLO0ZQBLh26jgoWOOk6moTB3eRp8U0+wBHbt54SZQwdB04t89/1O/w1cDnyilFU='
+lineaccesstoken = 'cWjkqtO8UU3VAaoWf5loqLiX9gDaT+e0goJigJJ0pgnET7H74aKwYN3/4juvDZb1KsBIjW5wkMKmQOqKeXD3md2gxvHwbULQgBnm3VMIdTokt7stObu6AvCITwGS1AKhefoexEd09o0/uLuGd4u3oAdB04t89/1O/w1cDnyilFU='
 line_bot_api = LineBotApi(lineaccesstoken)
 
 ####################### new ########################
