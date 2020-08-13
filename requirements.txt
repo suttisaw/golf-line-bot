@@ -3,7 +3,7 @@ gunicorn
 requests
 wikipedia
 line-bot-sdk
-pandas==0.20.3
+pandas
 googletrans
 geopy
 xlrd
