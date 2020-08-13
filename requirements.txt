@@ -7,3 +7,4 @@ pandas
 googletrans
 geopy
 xlrd
+werkzeug>=0.15.4
